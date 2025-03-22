@@ -24,5 +24,3 @@ I'm a Software Development Engineer (SDE) passionate about creating innovative s
 
 ---
 
-Explore my projects, and feel free to reach out for collaboration!
-

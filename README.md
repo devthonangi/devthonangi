@@ -19,7 +19,8 @@ I'm a Software Development Engineer (SDE) passionate about creating innovative s
 
 ## 📬 Let's Get in Touch
 
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/thonangidev/))
+- [LinkedIn](https://linkedin.com/in/thonangidev)
+
 
 ---
 

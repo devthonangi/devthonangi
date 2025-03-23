@@ -1,7 +1,7 @@
 # 👋 Hi there, Welcome to my GitHub page!
 
 
-💻 I'm Dev, a Software Development Engineer with 3+ years of experience in AI/ML, backend systems, and embedded development.  
+💻 I'm Dev, a Software Engineer with 3+ years of experience in AI/ML, backend systems, and embedded development.  
 ⚙️ Experienced with real-time AI and ML on embedded platforms like NVIDIA Jetson.   
 🚀 Skilled in multi-GPU training, performance tuning, and low-latency system design.  
 ☁️ Built scalable solutions across edge and cloud environments (AWS, GCP, Azure).  

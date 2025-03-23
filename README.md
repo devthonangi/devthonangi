@@ -1,13 +1,5 @@
-# Hi there 👋, Welcome to my GitHub page!
-
-
-I'm a Software Development Engineer with 3+ years of experience in AI, backend, and embedded systems. I’ve built real-time AI solutions on Jetson TX2 and optimized systems for speed and efficiency. I enjoy solving complex problems, working with cross-functional teams, and building reliable, scalable software.
-
-
-### Key Expertise
-- 🚀 Artificial Intelligence (AI)
-- 🤖 Machine Learning
-- 🔧 Backend Development
-- ⚙️ Embedded Systems
-- ☁️ Cloud Technologies
-
+👋 Hi, I'm a Software Engineer with 3+ years of experience in AI/ML, backend systems, and embedded development.  
+🚀 I’ve built real-time AI inference pipelines on NVIDIA Jetson, optimized multi-GPU training, and worked on scalable backend systems using Python, Java, and cloud platforms (AWS, GCP, Azure).  
+📦 My interests include edge AI, distributed systems, and building high-performance, reliable software.  
+🧠 26x certified across AWS, GCP, and Azure.  
+📫 Feel free to connect or check out some of my projects below!

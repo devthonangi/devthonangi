@@ -26,9 +26,3 @@ Welcome to my GitHub page!
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/-Jetson%20TX2-76B900?style=flat&logo=nvidia&logoColor=white)
 
----
-
-## 📫 Get in Touch
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/thonangidev/)  
-

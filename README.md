@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Dev.  Welcome to my GitHub page!
+# 👋 Hi there, Welcome to my GitHub page!
 
 
-💻 Software Development Engineer with 3+ years of experience in AI/ML, backend systems, and embedded development  
-⚙️ Experienced with real-time AI and ML on embedded platforms like NVIDIA Jetson   
-🚀 Skilled in multi-GPU training, performance tuning, and low-latency system design  
-☁️ Built scalable solutions across edge and cloud environments (AWS, GCP, Azure)  
-🔍 Focused on solving complex problems with efficient, production-ready solutions  
-📜 26x Cloud Certified across AWS, GCP, and Azure  
+💻 I'm Dev, a Software Development Engineer with 3+ years of experience in AI/ML, backend systems, and embedded development.  
+⚙️ Experienced with real-time AI and ML on embedded platforms like NVIDIA Jetson.   
+🚀 Skilled in multi-GPU training, performance tuning, and low-latency system design.  
+☁️ Built scalable solutions across edge and cloud environments (AWS, GCP, Azure).  
+🔍 Focused on solving complex problems with efficient, production-ready solutions.  
+📜 26x Cloud Certified across AWS, GCP, and Azure.  
 🔧 Interests: Edge AI • Embedded Systems • Distributed Systems • Real-Time Inference • Transfer Learning  
 
 

@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dev – Welcome to my GitHub page!
+# 👋 Hi, I’m Dev | Welcome to my GitHub page!
 
 
 💻 Software Development Engineer with 3+ years of experience in AI/ML, backend systems, and embedded development.  

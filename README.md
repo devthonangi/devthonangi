@@ -24,19 +24,6 @@ I'm a Software Development Engineer with 3+ years of experience in AI/ML, backen
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devthonangi&show_icons=true&theme=default" alt="Dev's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devthonangi&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthonangi&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/thonangidev/)  

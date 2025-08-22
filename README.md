@@ -5,7 +5,7 @@
 ⚙️ Experienced with real-time AI and ML on embedded platforms like NVIDIA Jetson.       
 🔍 Focused on solving complex problems with efficient, production-ready solutions.  
 📜 26x Cloud Certified across AWS, GCP, and Azure.  
-🔧 Interests: Edge AI • Embedded Systems • Distributed Systems • Real-Time Inference • Transfer Learning  
+🔧 Interests: Edge AI • Distributed Systems • Real-Time Inference • Transfer Learning  
 
 
 ---

@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Dev! Welcome to my GitHub page.
 
 
-💻 Software Development Engineer with 3+ years of experience in AI/ML, backend systems, and cloud infrastructure.  
+💻 Software Development Engineer with 3+ years of experience in AI/ML, Computer Vision, Deep Learning, backend systems, and cloud infrastructure.  
 ⚙️ Experienced with real-time AI and ML on embedded platforms like NVIDIA Jetson.       
 🔍 Focused on solving complex problems with efficient, production-ready solutions.  
 📜 26x Cloud Certified across AWS, GCP, and Azure.  

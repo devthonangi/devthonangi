@@ -4,6 +4,23 @@ Software Engineer with five years of experience building production AI, computer
 
 I enjoy turning complex technical problems into reliable software—from real-time inference on NVIDIA Jetson devices to scalable services and distributed data workflows.
 
+My interests include **Edge AI**, **distributed systems**, **real-time inference**, **model optimization**, and building production services that balance latency, throughput, and reliability.
+
+## Highlights
+
+- Five years of experience across banking, healthcare, research, computer vision, and cloud systems
+- Hands-on development and optimization for NVIDIA Jetson TX2, Nano, and Orin platforms
+- Experience taking AI workflows from model evaluation through production deployment and monitoring
+- 26+ professional certifications across AWS, Microsoft Azure, and Google Cloud
+
+## Achievements
+
+- Earned a **4.0/4.0 GPA** in the MS Computer and Information Science program at Florida Atlantic University
+- Completed the **AI Major Certificate** alongside the master’s degree
+- Awarded a **90% tuition waiver** and the **Gangal Family Endowed Graduate Scholarship**, presented to the top 1% of Computer Science students at FAU
+- Earned advanced certifications including AWS Solutions Architect – Professional, AWS Machine Learning – Specialty, Azure Solutions Architect Expert, and Google Cloud Professional Machine Learning Engineer
+- Authored technical articles, research reports, and project documentation covering CUDA acceleration, PyTorch optimization, computer vision, multimodal AI, and digital-twin evaluation methods
+
 ## What I work with
 
 **Languages**

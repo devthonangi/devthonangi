@@ -2,7 +2,6 @@
 
 I’m a software engineer who enjoys building useful systems and figuring out how things work under the hood.
 
-- 💼 Software Engineer at **KeyBank** in Cleveland, Ohio
 - 🤖 Five years of experience across AI/ML, computer vision, backend systems, and cloud infrastructure
 - ⚙️ Hands-on with real-time inference and NVIDIA Jetson TX2, Nano, and Orin
 - ☁️ 26+ professional certifications across AWS, Microsoft Azure, and Google Cloud

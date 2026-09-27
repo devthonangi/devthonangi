@@ -1,6 +1,6 @@
 # Hi, I’m Dev
 
-Software Engineer at **KeyBank** in Cleveland, Ohio, with five years of experience building production AI, computer vision, backend, and cloud systems.
+Software Engineer with five years of experience building production AI, computer vision, backend, and cloud systems.
 
 I enjoy turning complex technical problems into reliable software—from real-time inference on NVIDIA Jetson devices to scalable services and distributed data workflows.
 

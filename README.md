@@ -6,7 +6,6 @@ I’m a software engineer who enjoys building useful systems and figuring out ho
 - ⚙️ Hands-on with real-time inference and NVIDIA Jetson TX2, Nano, and Orin
 - ☁️ 26+ professional certifications across AWS, Microsoft Azure, and Google Cloud
 - 🎓 MS in Computer and Information Science, AI major, with a 4.0 GPA
-- 🏆 Gangal Family Endowed Graduate Scholarship recipient and 90% tuition waiver
 - 🔧 Interested in Edge AI, distributed systems, model optimization, and production reliability
 - 🥊 Away from code: gym, boxing, Valorant, cars, bikes, and travel
 

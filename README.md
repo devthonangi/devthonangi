@@ -1,52 +1,32 @@
-# Hi, I’m Dev
+# 👋 Hi there, I’m Dev!
 
-Software Engineer with five years of experience building production AI, computer vision, backend, and cloud systems.
+I’m a software engineer who enjoys building useful systems and figuring out how things work under the hood.
 
-I enjoy turning complex technical problems into reliable software—from real-time inference on NVIDIA Jetson devices to scalable services and distributed data workflows.
+- 💼 Software Engineer at **KeyBank** in Cleveland, Ohio
+- 🤖 Five years of experience across AI/ML, computer vision, backend systems, and cloud infrastructure
+- ⚙️ Hands-on with real-time inference and NVIDIA Jetson TX2, Nano, and Orin
+- ☁️ 26+ professional certifications across AWS, Microsoft Azure, and Google Cloud
+- 🎓 MS in Computer and Information Science, AI major, with a 4.0 GPA
+- 🏆 Gangal Family Endowed Graduate Scholarship recipient and 90% tuition waiver
+- 🔧 Interested in Edge AI, distributed systems, model optimization, and production reliability
+- 🥊 Away from code: gym, boxing, Valorant, cars, bikes, and travel
 
-My interests include **Edge AI**, **distributed systems**, **real-time inference**, **model optimization**, and building production services that balance latency, throughput, and reliability.
+## 🛠️ Technologies I enjoy working with
 
-## Highlights
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-- Five years of experience across banking, healthcare, research, computer vision, and cloud systems
-- Hands-on development and optimization for NVIDIA Jetson TX2, Nano, and Orin platforms
-- Experience taking AI workflows from model evaluation through production deployment and monitoring
-- 26+ professional certifications across AWS, Microsoft Azure, and Google Cloud
-
-## Achievements
-
-- Earned a **4.0/4.0 GPA** in the MS Computer and Information Science program at Florida Atlantic University
-- Completed the **AI Major Certificate** alongside the master’s degree
-- Awarded a **90% tuition waiver** and the **Gangal Family Endowed Graduate Scholarship**, presented to the top 1% of Computer Science students at FAU
-- Earned advanced certifications including AWS Solutions Architect – Professional, AWS Machine Learning – Specialty, Azure Solutions Architect Expert, and Google Cloud Professional Machine Learning Engineer
-- Authored technical articles, research reports, and project documentation covering CUDA acceleration, PyTorch optimization, computer vision, multimodal AI, and digital-twin evaluation methods
-
-## What I work with
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI and accelerated computing**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/CUDA%20%7C%20TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-
-**Backend and infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-## Connect
+## 🌐 Find me online
 
 - [Portfolio](https://devtportfolio.netlify.app)
 - [LinkedIn](https://www.linkedin.com/in/thonangidev/)
